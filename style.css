@@ -79,6 +79,7 @@ p {
 	top: 0;
 	width: 100vw;
 	height: auto;
+	background-image: url(img.jpg/brown.jpg);
 }
 #header .header {
 	min-height: 8vh;
@@ -271,7 +272,7 @@ p {
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
-    background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/27d4ec1f4267ccc814a765d5e7427899.jpg);
+    background-image: url(img.jpg/service.jpg);
 }
 #services .service-top {
 	max-width: 500px;
@@ -292,7 +293,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/1920x1080-gray-solid-color-background.jpg);
+	background-image: url(img.jpg/brown.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -415,7 +416,7 @@ p {
 }
 #about .col-right {
 	width: 100%;
-    background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/beige.jpg);
+    background-image: url(img.jpg/beige.jpg);
 }
 
 #about .col-right h2 {
@@ -646,7 +647,7 @@ p {
 		align-items: center;
 		justify-content: center;
 		min-width: 20vh;
-        background-image: url(/Users/hardikkalra/Downloads/design-space-paper-textured-background_53876-160488.avif);
+        background-image: url(img.jpg/brown.jpg);
 	}
 	#contact .contact-items {
 		width: 100%;
