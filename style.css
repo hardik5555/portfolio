@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/circuit.jpeg);
+	background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/circuit.jpeg?raw=true);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
