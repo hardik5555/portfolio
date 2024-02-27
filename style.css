@@ -271,7 +271,7 @@ p {
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
-    background-image: url(/Users/hardikkalra/Downloads/27d4ec1f4267ccc814a765d5e7427899 (1).jpg);
+    background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/27d4ec1f4267ccc814a765d5e7427899.jpg);
 }
 #services .service-top {
 	max-width: 500px;
@@ -292,7 +292,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(/Users/hardikkalra/Downloads/1920x1080-gray-solid-color-background.jpg);
+	background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/1920x1080-gray-solid-color-background.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -342,7 +342,7 @@ p {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-    background-image: url(/Users/hardikkalra/Downloads/design-space-paper-textured-background_53876-160488.avif);
+    background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/brown.jpg);
 }
 #projects .project-item {
 	display: flex;
@@ -415,7 +415,7 @@ p {
 }
 #about .col-right {
 	width: 100%;
-    background-image: url(/Users/hardikkalra/Downloads/design-space-paper-textured-background_53876-160488.avif);
+    background-image: url(https://github.com/hardik5555/portfolio/blob/main/img.jpg/beige.jpg);
 }
 
 #about .col-right h2 {
