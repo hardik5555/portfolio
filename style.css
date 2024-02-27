@@ -272,7 +272,7 @@ p {
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
-    background-image: url(img.jpg/service.jpg);
+    background-image: url(img.jpg/services2.jpg);
 }
 #services .service-top {
 	max-width: 500px;
@@ -647,7 +647,7 @@ p {
 		align-items: center;
 		justify-content: center;
 		min-width: 20vh;
-        background-image: url(img.jpg/brown.jpg);
+        background-image: url(img.jpg/contact.jpg);
 	}
 	#contact .contact-items {
 		width: 100%;
