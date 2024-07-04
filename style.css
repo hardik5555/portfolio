@@ -642,6 +642,11 @@ p {
 
 	/* skills section styling */
 .skills{
+    flex-direction: column;
+    padding: 100px 0;
+    align-items: center;
+    justify-content: center;
+    min-width: 20vh;
     color: #fff;
     background: #111;
 }
