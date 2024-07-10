@@ -645,7 +645,6 @@ p {
 .skills {
     display: flex;
     flex-direction: column;
-    width: 100px;
     padding: 100px 0;
     align-items: center;
     justify-content: center;
