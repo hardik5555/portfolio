@@ -645,6 +645,7 @@ p {
 .skills {
     display: flex;
     flex-direction: column;
+    width: 100px;
     padding: 100px 0;
     align-items: center;
     justify-content: center;
@@ -653,6 +654,7 @@ p {
     background: #111;
     min-height: 100vh; /* Ensure it takes at least full viewport height */
     margin: 0 auto; /* Center horizontally */
+	
 }
 
 .skills .title::after {
